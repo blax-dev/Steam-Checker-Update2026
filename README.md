@@ -45,8 +45,8 @@ Fast Steam account checker focused on Family Sharing eligibility.
 
 Private tool.  
 
-DM Discord: **userlaye.**
-Dm Telegram : **@BlackIce5000**
+DM Discord: **userlaye.** OR
+Dm Telegram : **BlackIce5000**
 
 ---
 
