@@ -46,7 +46,7 @@ Fast Steam account checker focused on Family Sharing eligibility.
 Private tool.
 
 To get it, DM me on Discord:  
-userlaye
+userlaye.
 
 ---
 
