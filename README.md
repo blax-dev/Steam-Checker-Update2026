@@ -12,7 +12,7 @@ Fast Steam account checker focused on Family Sharing eligibility.
 
 ## Demo
 
-[![Watch Demo](https://img.shields.io/badge/Click%20to%20Watch-Demo-green?style=for-the-badge)](https://cdn.discordapp.com/attachments/1431443359129407549/1484492980935987270/2026-03-20_11-02-36.mp4?ex=69be6d53&is=69bd1bd3&hm=87434911102446ada0a3c8770af21f0e1d39515d8bb6642cfab4b82e9355a211&)
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge)](https://youtu.be/TGMkNg6koFM)
 
 ---
 
@@ -35,18 +35,18 @@ Fast Steam account checker focused on Family Sharing eligibility.
 
 ## Files
 
-- combos.txt → accounts (email:password)
-- proxies.txt → proxies (optional)
+- combos.txt → accounts (email:password)  
+- proxies.txt → proxies (optional)  
 - Results/ → output
 
 ---
 
 ## Download
 
-Private tool.
+Private tool.  
 
 To get it, DM me on Discord:  
-userlaye.
+**userlaye.**
 
 ---
 
